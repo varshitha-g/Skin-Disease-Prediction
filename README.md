@@ -4,7 +4,7 @@ Skin Disease Detection
 
 
 
-  **Steps to run the project:
+  **Steps to run the project**:
 1. Download the files.
 2. Follow the following steps in the command prompt
 3. create a virtual env using "pip install virtualenv" command.
