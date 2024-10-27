@@ -18,9 +18,7 @@ This repository contains a deep learning project that uses a Convolutional Neura
    
    Usage
    
-   Demo
-   
-   Contributing
+  
 ## Overview
 
 Skin disease detection is crucial for early diagnosis and treatment. This project implements a CNN model to classify images into five skin disease categories with an accuracy of approximately 70%. The model is deployed via a user-friendly web application built with Flask, enabling users to upload images and receive real-time predictions.
@@ -89,12 +87,6 @@ Open your browser and navigate to http://127.0.0.1:5000 to access the applicatio
 ### 3. Uploading Images: 
 
 Use the interface to upload images of skin lesions, and the model will return a classification along with a confidence score.
-## Demo
-
-Screenshot of the Flask web application interface for uploading images and receiving predictions.
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page for things to work on.
 
 
 
